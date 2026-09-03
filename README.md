@@ -271,6 +271,14 @@ Create a new file named `turtle_drawing.py` inside of your root folder.
 
 Create your own original drawing from scratch using Python's Turtle library.
 
+If you need ideas for your drawing, you could:
+
+* Write your own name or the name of your school
+* Draw a self-portrait
+* Draw a house
+* Draw a car
+* Draw your favorite animal
+
 ## Requirements
 
 * Draw at least **15 visible lines** using Turtle movement commands.
